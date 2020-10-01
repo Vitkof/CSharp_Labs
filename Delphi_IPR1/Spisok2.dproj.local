@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.222,C:\Users\vitko\OneDrive\Documents\Embarcadero\Studio\Projects\Spisok.dproj=C:\Users\vitko\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.524,C:\Users\vitko\OneDrive\Documents\Embarcadero\Studio\Projects\Spisok.dproj=C:\Users\vitko\OneDrive\Documents\Embarcadero\Studio\Projects\Spisok2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.690,=C:\Users\vitko\OneDrive\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.793,=C:\Users\vitko\OneDrive\Documents\Embarcadero\Studio\Projects\Tovar.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,=C:\Users\vitko\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.705,=C:\Users\vitko\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Tovar.pas"/>
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit3.pas"/>
+    <File Path="Unit3.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
