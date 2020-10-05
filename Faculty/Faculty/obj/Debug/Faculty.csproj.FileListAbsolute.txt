@@ -1,0 +1,7 @@
+C:\Users\vitko\source\repos\Faculty\Faculty\bin\Debug\Faculty.exe.config
+C:\Users\vitko\source\repos\Faculty\Faculty\bin\Debug\Faculty.exe
+C:\Users\vitko\source\repos\Faculty\Faculty\bin\Debug\Faculty.pdb
+C:\Users\vitko\source\repos\Faculty\Faculty\obj\Debug\Faculty.csprojAssemblyReference.cache
+C:\Users\vitko\source\repos\Faculty\Faculty\obj\Debug\Faculty.csproj.CoreCompileInputs.cache
+C:\Users\vitko\source\repos\Faculty\Faculty\obj\Debug\Faculty.exe
+C:\Users\vitko\source\repos\Faculty\Faculty\obj\Debug\Faculty.pdb
