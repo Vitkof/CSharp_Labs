@@ -1,0 +1,7 @@
+c:\users\vitko\source\repos\Boing\Boing\bin\Debug\Boing.exe.config
+c:\users\vitko\source\repos\Boing\Boing\bin\Debug\Boing.exe
+c:\users\vitko\source\repos\Boing\Boing\bin\Debug\Boing.pdb
+c:\users\vitko\source\repos\Boing\Boing\obj\Debug\Boing.csprojAssemblyReference.cache
+c:\users\vitko\source\repos\Boing\Boing\obj\Debug\Boing.csproj.CoreCompileInputs.cache
+c:\users\vitko\source\repos\Boing\Boing\obj\Debug\Boing.exe
+c:\users\vitko\source\repos\Boing\Boing\obj\Debug\Boing.pdb
