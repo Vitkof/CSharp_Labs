@@ -60,10 +60,10 @@
 Разработать несколько (минимум 2) шаблонов для элементов управления и данных. Вариант 1 Картотека электронных книг. UPDATE!
 Создать базу данных для хранения данных Проекта.
 Разработать в проекте слой доступа к данным (DAL) с использованием ADO.NET. DAL должен обеспечивать основные операции с бизнес-сущностями проекта (т.е. создание, чтение, изменение, удаление). При реализации DAL можно использовать прямое чтение из базы (что предпочтительнее), либо DataSet-ы (обычные или типизированные).
-![board](screenshots/ebooks.jpg "ebooks")
+![board](screenshots/ebook.jpg "ebook")
 
 [ИПР_1]: <https://github.com/Vitkof/CSharp_Labs/tree/main/Delphi_IPR1>
 [ИПР_2]: <https://github.com/Vitkof/CSharp_Labs/tree/main/Stack_IPR2>
 [ИПР_3]: <https://github.com/Vitkof/CSharp_Labs/tree/main/Faculty>
 [ИПР_4]: <https://github.com/Vitkof/CSharp_Labs/tree/main/Boing>
-[ИПР_5]: <https://github.com/Vitkof/CSharp_Labs/tree/main/>
+[ИПР_5]: <https://github.com/Vitkof/CSharp_Labs/tree/main/EBook_IPR5>
